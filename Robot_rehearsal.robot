@@ -1,4 +1,4 @@
 *** Settings ***
-Library           SeleniumLibrary
+Library           WhiteLibrary
 
 *** Test Cases ***
